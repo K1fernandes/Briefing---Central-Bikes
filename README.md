@@ -7,4 +7,4 @@
 <br>
 <hr>
 <br>
-<p style="font-size: 30px">Thus developing your typography style and color palette for the production of a logo and app covers</p>
+<p style="font-size: 30px">Thus developing your typography style and color palette for the production of a logo and app covers, you can find more of this project in the file above</p>
